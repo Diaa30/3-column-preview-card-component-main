@@ -1,0 +1,15 @@
+@media (max-width: 375px) {
+  .container {
+    grid-template-columns: 1fr;
+    margin: 9.6rem auto;
+  }
+  .card {
+    padding: 3.4rem 4rem;
+  }
+  .card-pragraph {
+    margin-bottom: 0;
+  }
+  .card-btn {
+    padding: 1.6rem 1.8rem;
+  }
+}
